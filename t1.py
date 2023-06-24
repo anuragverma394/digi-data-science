@@ -6,6 +6,7 @@ sides =6
 for i in range(sides):
     fd(distance)
     rt(360/sides)
+    circle(distance/2)
     for i in range(sides):
         fd(distance/2)
         rt(360/sides)
