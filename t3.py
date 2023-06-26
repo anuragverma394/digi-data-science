@@ -1,7 +1,7 @@
 from turtle import*
 speed('fastest')
 size =10
-angle =380
+angle =60 
 colors=['red','purple','blue']
 
 while True:
