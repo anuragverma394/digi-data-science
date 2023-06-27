@@ -5,7 +5,7 @@ s=turtle.Turtle()
 
 
 for i in range(5):
-    
+    pencolor="black"
     s.fd(90)
     s.right(144)
     s.fd(90)
